@@ -1,2 +1,2 @@
-# ESIDUOS-SOLIDOS
+# RESIDUOS-SOLIDOS
 Aquí compartiremos el trabajo en residuos sólidos 
